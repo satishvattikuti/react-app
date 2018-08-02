@@ -1,0 +1,29 @@
+.k-tabstrip-items .k-item, .k-panelbar .k-tabstrip-items .k-item {
+    background-color: #39435c;
+    color:#b8c7ce;
+}
+/* 
+.k-state-active .k-tab-on-top {
+    background-color: #eee;
+    color: #333333;
+} */
+
+.k-tabstrip-items .k-tab-on-top, .k-tabstrip-items .k-state-active, .k-panelbar .k-tabstrip-items .k-state-active > .k-tabstrip-items .k-item, .k-panelbar .k-tabstrip-items .k-item {
+    background-color:#eee;
+}
+
+.k-item .k-state-default{
+    background: #b8c7ce;    
+}
+.k-tabstrip .k-content {
+    height: 800px;
+    width: 1200px;
+}
+
+.k-link {
+    background-color: #39435c;
+    color: white;
+}
+/* .k-animation-container, .k-widget, .k-widget *, .k-animation-container *, .k-widget *:before, .k-animation-container *:after, .k-block .k-header, .k-list-container{
+    width: 500px;
+} */
